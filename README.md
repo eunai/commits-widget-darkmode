@@ -67,6 +67,12 @@ Things to Note
 
 + The widget currently depends on jquery and jquery.timeago at the moment.
 
+<!-- BUG TRACKER -->
+Bug Tracker
+-----------
+
+Have a bug? Open a new issue at https://github.com/tylerlh/github-latest-commits-widget/issues
+
 <!-- LICENSE -->
 ## Copyright & License
 
