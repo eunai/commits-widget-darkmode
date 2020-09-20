@@ -117,6 +117,12 @@ body {
   line-height: 1.5rem;
 }
 
+/*
+
+TODO Perhaps make it adaptable to screen size and/or iframe size
+
+ */
+
 /* line 52, ../../src/scss/screen.scss */
 #latest-commits-widget {
   border: 1px solid #121212;
