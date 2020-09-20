@@ -79,7 +79,7 @@ Have a bug? Open a new issue at https://github.com/tylerlh/github-latest-commits
 Distributed under the Apache License, Version 2.0. See `LICENSE.txt` for more information.
 
 
-Copyright 2012-2015 Tyler Hughes.
+Copyright 2012-2020 Tyler Hughes.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.
