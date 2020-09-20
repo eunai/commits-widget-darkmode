@@ -22,7 +22,7 @@
 
 Show the latest commit activity on your repo, keeping the community updated and giving users more incentive to contribute to your project with this widget.
 
-Check out a demo of the widget in action @ https://eunai.github.io/commits-widget-darkmode/?username=eunai&repo=commits-widget-darkmode&limit=40
+Check out a demo of the widget in action @ [Sample](https://eunai.github.io/commits-widget-darkmode/sample?username=eunai&repo=commits-widget-darkmode&limit=30)
 
 Forked from [TylerLH's master branch](https://github.com/tylerlh/github-latest-commits-widget/)
 
