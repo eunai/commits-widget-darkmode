@@ -198,6 +198,13 @@ body {
   color: #444;
   font-size: .8em;
 }
+
+/*
+
+TODO Change visited link color and opacity
+
+ */
+
 /* line 112, ../../src/scss/screen.scss */
 #latest-commits-widget ul#commit-history li .commit-author-info a {
   color: rgba(255, 255, 255, 0.87);
